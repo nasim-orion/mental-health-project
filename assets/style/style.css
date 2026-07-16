@@ -35,8 +35,11 @@
                  -1px 1px 0 #000000,
                  1px 1px 0 #000000;
 }
-html { scroll-padding-top: 5rem; }
+html { scroll-padding-top: 6rem; }
 
+section[id] {
+    scroll-margin-top: 6rem;
+}
 
 header a,
 header a:link,
