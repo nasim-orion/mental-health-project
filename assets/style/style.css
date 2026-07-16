@@ -135,7 +135,7 @@ header{padding-top:5rem;}
     width: fit-content;
     margin: 1rem auto;
 }
-.nhs-link {
+.nhs-link { color: #9c7a97;
     text-align: center;
     display: block;
     margin: 0 auto;
