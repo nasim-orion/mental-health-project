@@ -127,7 +127,7 @@ paste here you user story | what is visible to the user and what action they sho
 * When the navbar was set to fixed it covered the header so that had to be adjusted 
 * Copilot helped fix an issue with the forms where the phone number field could be submitted with just text.
 * form fields on samsung mobile devices weren't centered, used copilot to amend. 
-
+* CSS validator pointed out that buttons cant be descendants of anchor tags and while it posed no problem to my site I amended it.
 
 ## Deployment
 
