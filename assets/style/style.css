@@ -129,6 +129,25 @@ h1{font-family:Margarine,sans-serif;font-size:3rem;margin-top:2rem;
     margin-top: 2rem;
 }
 
+.site-footer .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 0.75rem;
+}
+
+.site-footer .footer-text,
+.site-footer p,
+.site-footer ul {
+    width: 100%;
+}
+
+.site-footer ul {
+    justify-content: center;
+}
+
 .site-footer a {
     color: #ffffff;
     text-decoration: none;
