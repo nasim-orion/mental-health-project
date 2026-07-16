@@ -52,6 +52,28 @@ A contact section includes an email address, phone number, or contact form.
 The form includes required fields and validates input.
 A confirmation message is shown after submission.
 
+learn more about each service
+Click a value to filter the view
+See evidence of trust and credibility
+Click a value to filter the view
+Choose the right service path
+Click a value to filter the view
+Understand the value of the services
+Click a value to filter the view
+Book a consultation
+Click a value to filter the view
+In Progress
+4
+ (4)
+This is actively being worked on
+Navigate the website easily
+Click a value to filter the view
+Access the site comfortably on mobile
+Click a value to filter the view
+Request support or a consultation
+Click a value to filter the view
+user story: understand services quickly
+Click a value to filter the view
 
 
 ### Wireframes
