@@ -128,10 +128,8 @@ paste here you user story | what is visible to the user and what action they sho
 ## Bugs
 
 * When the navbar was set to fixed it covered the header so that had to be adjusted 
-* Copilot wrote the code to display the confirmation modal but it attached it to the wrong event so it didn't work.  I read the [MDN page on form submission using javascript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Sending_forms_through_JavaScript) and fixed the problem.
-* Following the advice in the project statement I used a Jumbotron for the header without realising it was a Bootstrap 4 feature and didn't do anything.  Unfortunately, the boilerplate that came with it introduced an unwanted margin but when I noticed that I fixed it and removed the Jumbotron cruft.
-* After clicking on an internal link the heading was hidden under the navbar.  I added `scroll-margin-top` using the browser dev tools and it fixed the problem, but when I added it to the project it didn't.  After reading this [Stack Overflow question and answer](https://stackoverflow.com/questions/72581132/how-does-the-css-property-scroll-margin-top-and-scroll-padding-top-really-wo) I realised that I had initially tested it with javascript disabled, but it didn't work in production because the navbar collapser handles the scrolling.  This code has a bug calculating the height of the navbar, which I have fixed.
-* The default bootstrap link colour had contrast problems against the light section background so I used the darker blue matching the shield border.
+* Copilot helped fix an issue with the forms where the phone number field could be submitted with just text.
+
 
 ## Deployment
 
@@ -147,7 +145,7 @@ The site was deployed to Github Pages using the following method:
 - Click 'save'.
 
 ## Credit and Thanks
-
+* [Coolors(https://www.wmca.org.uk/) for funding
 * [Code Institute](https://codeinstitute.net/) and its tutors for their teaching and support
 * [West Midlands Combined Authority](https://www.wmca.org.uk/) for funding
 * [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) *et al* for the web
