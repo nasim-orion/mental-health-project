@@ -8,6 +8,8 @@ https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/06/men-support-g
 
 https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/06/men-support-group-talking-1200x628-facebook.jpg  {group fitness}
 
+https://res.cloudinary.com/hydrow/image/upload/f_auto/w_3840/q_80/v1723561165/Blog/home-gym-vs-gym-membership.jpg (1on1 gym)
+
 
 ##hero image
 
@@ -145,7 +147,7 @@ The site was deployed to Github Pages using the following method:
 - Click 'save'.
 
 ## Credit and Thanks
-* [Coolors(https://www.wmca.org.uk/) for funding
+* [Coolors(https://www.wmca.org.uk/) for color palette
 * [Code Institute](https://codeinstitute.net/) and its tutors for their teaching and support
 * [West Midlands Combined Authority](https://www.wmca.org.uk/) for funding
 * [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) *et al* for the web
