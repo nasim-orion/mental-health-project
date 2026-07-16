@@ -72,20 +72,21 @@ I chose a  teal and pink palette to be warm and welcoming to appeal to a wide va
 
 
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms.....)
+
+Hero image, accessiblr colour palette, cards with alt text and useful information.
 ### Navigation
 Easily accesible nav bar that is fixed and responsive on multiple devices.
 ### Footer
 footer with clickable links and visually appealing text
 ### Other features
-responsive contact form and buttons to access othe resources
+responsive contact form and buttons to access other resources
 ## Copilot AI Assistance
 
 Copilot was used for:
 
 
 * The user stories and acceptance criteria. I edited them down as needed and as the scope of tbe project evolved.
-* Debugging
+* Debugging .
 
 My takeaway is that Copilot is good at coming up with ideas for user stories, when you refine your prompt.
 
@@ -97,6 +98,7 @@ Bootstrap
 Github
 Favicon
 Adobe color pallete
+Balsamiq
 
 ## Testing
 
@@ -121,6 +123,7 @@ paste here you user story | what is visible to the user and what action they sho
 
 * When the navbar was set to fixed it covered the header so that had to be adjusted 
 * Copilot helped fix an issue with the forms where the phone number field could be submitted with just text.
+* form fields on samsung mobile devices weren't centered, used copilot to amend. 
 
 
 ## Deployment
@@ -137,6 +140,7 @@ The site was deployed to Github Pages using the following method:
 - Click 'save'.
 
 ## Credit and Thanks
+* [Balsamiq] {balsamiq.cloud} for wireframes.
 * [Coolors](https://www.wmca.org.uk/) for color palette
 * [Adohe Colors](https://color.adobe.com/create/color-accessibility) for color palette verification
 * [Code Institute](https://codeinstitute.net/) and its tutors for their teaching and support
@@ -146,10 +150,10 @@ The site was deployed to Github Pages using the following method:
 * [Bootstrap](https://getbootstrap.com/) for the CSS framework
 * [Font Awesome](https://fontawesome.com/) for icons
 
-* [Bunny CDN](https://fonts.bunny.net/) for font hosting
+
 * [The margarine authors : Astigmatic (Brian J. Bonislawsky and Jim Lyles) for the margarine font.
 * [Microsoft](https://www.microsoft.com/) for [Visual Studio Code](https://code.visualstudio.com/)
-* [Copilot](https://copilot.microsoft.com/) for user stories, code suggestions brainstorming and debugging
+* [Copilot](https://copilot.microsoft.com/) for user stories, code suggestions, brainstorming and debugging
 
 ## image sources:
 
