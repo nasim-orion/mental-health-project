@@ -3,6 +3,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&family=Margarine&family=Playpen+Sans:wght@100..800&family=Xanh+Mono:ital@0;1&display=swap');
 
+
+/*hero image*/
 #hero {
     background-image: url('../images/hero.jpg');
     background-size: cover;
@@ -25,7 +27,7 @@
                  1px 1px 0 #2b4d6b;
 }
 
-#menu { font-family: 'Playpen Sans', sans-serif; font-size: 1.2rem; }
+#menu { font-family: 'Margarine', sans-serif; font-size: 1.2rem; }
 
 
 #section h2{text-shadow: -1px -1px 0 #2b4d6b,
@@ -33,7 +35,9 @@
                  -1px 1px 0 #2b4d6b,
                  1px 1px 0 #2b4d6b;
 }
-main{background-color:#6ba3e4;color:#c8ff00;font-family:Margarine,sans-serif;margin:0;padding:0;
+html { scroll-padding-top: 5rem; }
+
+main{background-color:#6ba3e4;color:#c8ff00;font-family:Margarine,sans-serif;margin:0;padding:5rem 0 0 0;
 }
 
 body{background-color:#f7c5e6;color:#c7f327;font-family:Margarine,sans-serif;margin:0;padding:0;}
@@ -67,6 +71,14 @@ header{padding-top:5rem;}
     text-align: center;
     width: 100%;
     margin-bottom: 0.5rem;
+}
+
+#contact fieldset {
+    margin-top: 1.5rem;
+}
+
+#contact legend {
+    margin-bottom: 0.75rem;
 }
 
 #contact .col-sm-10,
@@ -112,6 +124,9 @@ h1{font-family:Margarine,sans-serif;font-size:3rem;margin-top:2rem;
     text-align:center;font-size:3rem;margin-top:2rem;}
 
     h2, h3 {text-align:center;}
+
+
+    #legend {padding-top: 10px;}
 
 .site-footer {
     background-color: #2b4d6b;
