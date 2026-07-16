@@ -37,7 +37,11 @@
 }
 html { scroll-padding-top: 5rem; }
 
-h1{font-family: 'Margarine', sans-serif; color: #303633; font-size: 3rem; margin-top: 2rem;}
+h1{font-family: 'Margarine', sans-serif; color: #303633; font-size: 3rem; margin-top: 2rem;
+
+ text-align:center;font-size:3rem;margin-top:2rem;}
+
+    h2, h3 {text-align:center;}}
 
 header a {
     text-decoration: none;
@@ -45,6 +49,11 @@ header a {
 }
 
 
+    
+    
+    
+    
+   
 
 main{background-color:#8BE8CB;color:#030504;font-family:Margarine,sans-serif;margin:0;padding:5rem 0 0 0;
 }
@@ -118,14 +127,7 @@ header{padding-top:5rem;}
     margin: 1rem auto;
 }
 
-h1{font-family:Margarine,sans-serif;font-size:3rem;margin-top:2rem;
-    
-    
-    
-    
-    text-align:center;font-size:3rem;margin-top:2rem;}
 
-    h2, h3 {text-align:center;}
 
 
     #legend {padding-top: 10px;}

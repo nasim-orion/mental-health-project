@@ -58,16 +58,19 @@ A confirmation message is shown after submission.
 
 
 Mobile/Tablet | Desktop | 
--- | -- | --
-![Wireframe for a mobile/tablet] | ![Wireframe for a laptop/desktop]| 
+- - | -- | --
+ * [Wireframe for a mobile/tablet] (../Documentation/wireframe mobile  )
+
+
+  *[Wireframe for a laptop/desktop] (../Documentation/wireframe desktop)
 
 ### Typography
 
-For headers I have used the Margarine font.  It is a friendly appealing font.
+ have used the Margarine font.  It is a friendly appealing font.
 
 ### Colour Scheme
 
-I chose a  teal and pink palette to be warm and welcoming to appeal to a wide variety of people.
+I chose a teal, grey  and pink palette to be warm and welcoming to appeal to a wide variety of people.
 
 
 
