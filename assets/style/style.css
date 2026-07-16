@@ -163,7 +163,7 @@ h1{font-family:Margarine,sans-serif;font-size:3rem;margin-top:2rem;
 
 .site-footer {
     background-color: #C172D4;
-    color: #303633;
+    color: #000806;
     margin-top: 2rem;
 }
 
@@ -187,12 +187,12 @@ h1{font-family:Margarine,sans-serif;font-size:3rem;margin-top:2rem;
 }
 
 .site-footer a {
-    color: #303633;
+    color: #000806;
     text-decoration: none;
 }
 
 .site-footer a:hover {
-    color: #303633;
+    color: #000806;
 }
 
 .footer-text {
