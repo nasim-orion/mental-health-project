@@ -83,7 +83,7 @@ For headers I have used the Margarine font.  It is a friendly appealing font.
 
 ### Colour Scheme
 
-I chose a  blue and pink palette to be warm and welcoming to appeal to a wide variety of people.
+I chose a  teal and pink palette to be warm and welcoming to appeal to a wide variety of people.
 
 
 
@@ -109,9 +109,12 @@ CSS
 Bootstrap
 Github
 Favicon
+Adobe color pallete
 
 ## Testing
 Important part of your README!!!
+
+Color palette tested with adobe color for any potential accessibility conflicts. one was found and amended.
 ### Google's Lighthouse Performance
 Screenshots of certain pages and scores (mobile and desktop)
 ### Browser Compatibility
@@ -147,7 +150,8 @@ The site was deployed to Github Pages using the following method:
 - Click 'save'.
 
 ## Credit and Thanks
-* [Coolors(https://www.wmca.org.uk/) for color palette
+* [Coolors](https://www.wmca.org.uk/) for color palette
+* [Adohe Colors](https://color.adobe.com/create/color-accessibility) for color palette verification
 * [Code Institute](https://codeinstitute.net/) and its tutors for their teaching and support
 * [West Midlands Combined Authority](https://www.wmca.org.uk/) for funding
 * [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) *et al* for the web
