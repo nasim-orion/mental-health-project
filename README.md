@@ -114,7 +114,7 @@ Check compatability with different browsers
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
-Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
+* css validated using Jigsaw. See Documentation/css-validation
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
@@ -152,7 +152,7 @@ The site was deployed to Github Pages using the following method:
 * [GitHub](https://github.com/) for hosting the repository, the project plan and the site
 * [Bootstrap](https://getbootstrap.com/) for the CSS framework
 * [Font Awesome](https://fontawesome.com/) for icons
-
+* [Jigsaw](https://jigsaw.w3.org/css-validator/validator) for html and css validation.
 
 * [The margarine authors : Astigmatic (Brian J. Bonislawsky and Jim Lyles) for the margarine font.
 * [Microsoft](https://www.microsoft.com/) for [Visual Studio Code](https://code.visualstudio.com/)
