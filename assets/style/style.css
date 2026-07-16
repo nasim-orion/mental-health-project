@@ -38,11 +38,27 @@
 html { scroll-padding-top: 5rem; }
 
 
-header a {
-    text-decoration: none;
+header a,
+header a:link,
+header a:visited,
+header a:hover,
+header a:active,
+header a:focus,
+.navbar-brand,
+.navbar-brand:link,
+.navbar-brand:visited,
+.navbar-brand:hover,
+.navbar-brand:active,
+.navbar-brand:focus,
+.nav-link,
+.nav-link:link,
+.nav-link:visited,
+.nav-link:hover,
+.nav-link:active,
+.nav-link:focus {
+    text-decoration: none !important;
     color: inherit;
 }
-
 
 
 main{background-color:#8BE8CB;color:#030504;font-family:Margarine,sans-serif;margin:0;padding:5rem 0 0 0;
