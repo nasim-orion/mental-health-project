@@ -1,20 +1,4 @@
 
-#image sources:
-
-https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/06/GettyImages-1305552472_header-1024x575.jpg?w=1155&h=1528 {one to one therapy}
-
-https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/06/men-support-group-talking-1200x628-facebook.jpg {group therapy}
-
-
-https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/06/men-support-group-talking-1200x628-facebook.jpg  {group fitness}
-
-https://res.cloudinary.com/hydrow/image/upload/f_auto/w_3840/q_80/v1723561165/Blog/home-gym-vs-gym-membership.jpg (1on1 gym)
-
-
-##hero image
-
-https://media.istockphoto.com/id/1133003132/photo/three-millennial-male-hipster-friends-on-a-bench-in-a-city-street-smiling-to-camera-close-up.jpg?s=612x612&w=0&k=20&c=qVlre8SQVPGGzizHmsiLIQChakxfaFjNBXcJlkyn5Xs=
-
 
 
 
@@ -75,7 +59,7 @@ A confirmation message is shown after submission.
 
 Mobile/Tablet | Desktop | 
 -- | -- | --
-![Wireframe for a mobile/tablet] | ![Wireframe for a laptop/desktop]| ![Wireframe for a confirmation window]
+![Wireframe for a mobile/tablet] | ![Wireframe for a laptop/desktop]| 
 
 ### Typography
 
@@ -90,14 +74,17 @@ I chose a  teal and pink palette to be warm and welcoming to appeal to a wide va
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
 ### Navigation
+Easily accesible nav bar that is fixed and responsive on multiple devices.
 ### Footer
+footer with clickable links and visually appealing text
 ### Other features
+responsive contact form and buttons to access othe resources
 ## Copilot AI Assistance
 
 Copilot was used for:
 
 
-* The user stories and acceptance criteria.  I edited them down.
+* The user stories and acceptance criteria. I edited them down as needed and as the scope of tbe project evolved.
 * Debugging
 
 My takeaway is that Copilot is good at coming up with ideas for user stories, when you refine your prompt.
@@ -112,7 +99,7 @@ Favicon
 Adobe color pallete
 
 ## Testing
-Important part of your README!!!
+
 
 Color palette tested with adobe color for any potential accessibility conflicts. one was found and amended.
 ### Google's Lighthouse Performance
@@ -163,4 +150,20 @@ The site was deployed to Github Pages using the following method:
 * [The margarine authors : Astigmatic (Brian J. Bonislawsky and Jim Lyles) for the margarine font.
 * [Microsoft](https://www.microsoft.com/) for [Visual Studio Code](https://code.visualstudio.com/)
 * [Copilot](https://copilot.microsoft.com/) for user stories, code suggestions brainstorming and debugging
+
+## image sources:
+
+* https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/06/GettyImages-1305552472_header-1024x575.jpg?w=1155&h=1528 {one to one therapy}
+
+* https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/06/men-support-group-talking-1200x628-facebook.jpg {group therapy}
+
+
+* https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/06/men-support-group-talking-1200x628-facebook.jpg  {group fitness}
+
+* https://res.cloudinary.com/hydrow/image/upload/f_auto/w_3840/q_80/v1723561165/Blog/home-gym-vs-gym-membership.jpg (1on1 gym)
+
+
+# hero image
+
+* https://media.istockphoto.com/id/1133003132/photo/three-millennial-male-hipster-friends-on-a-bench-in-a-city-street-smiling-to-camera-close-up.jpg?s=612x612&w=0&k=20&c=qVlre8SQVPGGzizHmsiLIQChakxfaFjNBXcJlkyn5Xs=
 
