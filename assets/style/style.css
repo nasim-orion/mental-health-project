@@ -132,6 +132,19 @@ header{padding-top:5rem;}
     width: fit-content;
     margin: 1rem auto;
 }
+.nhs-link {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (max-width: 767px) {
+    .nhs-link {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+}
 
 h1{font-family:Margarine,sans-serif;font-size:3rem;margin-top:2rem;
     
