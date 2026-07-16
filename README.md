@@ -102,6 +102,7 @@ Github
 Favicon
 Adobe color pallete
 Balsamiq
+Jigsaw
 
 ## Testing
 
@@ -114,7 +115,8 @@ Check compatability with different browsers
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
-* css validated using Jigsaw. See Documentation/css-validation
+* css and html validated using Jigsaw. See documentation/css-validation.png and documentation/html-validation,png
+
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
@@ -154,7 +156,7 @@ The site was deployed to Github Pages using the following method:
 * [Font Awesome](https://fontawesome.com/) for icons
 * [Jigsaw](https://jigsaw.w3.org/css-validator/validator) for html and css validation.
 
-* [The margarine authors : Astigmatic (Brian J. Bonislawsky and Jim Lyles) for the margarine font.
+* [The margarine authors : Astigmatic (Brian J. Bonislawsky and Jim Lyles) for the margarine font.]
 * [Microsoft](https://www.microsoft.com/) for [Visual Studio Code](https://code.visualstudio.com/)
 * [Copilot](https://copilot.microsoft.com/) for user stories, code suggestions, brainstorming and debugging
 
